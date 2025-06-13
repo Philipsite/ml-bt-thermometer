@@ -1,0 +1,4 @@
+ipykernel==6.29.5
+notebook==7.4.3
+keras==3.10.0
+tensorflow==2.19.0
