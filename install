@@ -1,3 +1,6 @@
+# set path to the script directory
+cd "$(dirname "$0")"
+
 echo "🔧 Setting up a Python virtual environment..."
 python3 -m venv .venv
 echo "✅ Virtual environment created."
